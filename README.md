@@ -1,6 +1,11 @@
 # GPT3 SMS Bot Starter Kit
+
+
+# This is the code for [this](https://youtu.be/hL2hLFUwuqQ) video on Youtube by Siraj Raval. [Live page](https://hitch.durable.co/)
  
 GPT3 SMS Bot Starter Kit using Twilio. Based on this [tutorial](https://www.twilio.com/blog/sms-stocks-bot-twilio-typescript).
+
+
 
 ## Running this project
 
